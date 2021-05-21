@@ -1,4 +1,4 @@
-## Welcome to Class Scadual
+## Welcome to Class Scedule
 
 You can use the [editor on GitHub](https://github.com/allen813/Test/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
