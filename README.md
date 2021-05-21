@@ -3,7 +3,7 @@
 802 Google Meet [Linker](https://meet.google.com/lookup/gldzzmohsh?authuser=0&hs=179).  
 803 Google Meet [Linker](https://meet.google.com/lookup/bcspmhcrce?authuser=0&hs=179).
 
-##  課表
+##  **課表**
 
 ## 5/17~5/21
 
