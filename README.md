@@ -3,11 +3,7 @@
 802 Google Meet [Linker](https://meet.google.com/lookup/gldzzmohsh?authuser=0&hs=179).  
 802 Google Meet [Linker](https://meet.google.com/lookup/bcspmhcrce?authuser=0&hs=179).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##課表
 
 ```markdown
 Syntax highlighted code block
