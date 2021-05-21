@@ -9,7 +9,7 @@
 
 | 時間  |  一   |  二   |       三        |             四             |      五       |
 | :---: | :---: | :---: | :-------------: | :------------------------: | :-----------: |
-|  一   |       |       |                 |        [班會][141]         |               |
+|  一   |    數學  802 [802]   |       |                 |        [班會][141]         |               |
 |  二   |       |       |                 | 實習 [A組][003] [B組][004] |               |
 |  三   |       |       |                 |            實習            |    [數學]     |
 |  四   |       |       |                 |            實習            |     數學      |
@@ -17,28 +17,5 @@
 |  六   |       |       | [微處理機][136] |       [電子學][135]        |    電子學     |
 |  七   |       |       |    微處理機     |           電子學           |  [國文][157]  |
 
-## 5/24~5/28
-
-| 時間  |       一        |   二   |       三        |     四      |  五   |
-| :---: | :-------------: | :----: | :-------------: | :---------: | :---: |
-|  一   | [微處理機][211] |        |                 | [班會][241] |       |
-|  二   |   [實習][001]   |        |                 |             |       |
-|  三   |   [實習][002]   | [健康] |                 |             |       |
-|  四   |      實習       |  健康  |                 |             |       |
-|  五   |      實習       |        |                 | [數學][145] |       |
-|  六   |      實習       |        | [微處理機][236] |             |       |
-|  七   |      實習       |        |    微處理機     |             |       |
-
-[136]:https://meet.google.com/zhd-qxdr-hid
-[141]:https://meet.google.com/gxy-bjpm-dui
-[211]:https://meet.google.com/oip-qubt-pef
-[236]:https://meet.google.com/fpg-bfud-zqn
-[241]:https://meet.google.com/vzs-efyz-hdk
-[145]:https://meet.google.com/rzn-ntqy-ynu
-[135]:https://meet.google.com/cev-accb-xex
-[157]:https://meet.google.com/ohg-hjgp-ptm
-
-[001]:https://meet.google.com/vew-umyx-xvn
-[002]:https://meet.google.com/wka-bgbj-oxi
-[004]:https://meet.google.com/tyg-ntqx-ibc
-[003]:https://meet.google.com/fjs-jquz-apu
+[802]:https://meet.google.com/zhd-qxdr-hid
+[803]:https://meet.google.com/gxy-bjpm-dui
