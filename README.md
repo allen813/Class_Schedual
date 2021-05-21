@@ -17,5 +17,8 @@
 |  六   |            |            |                 |                 |                 |
 |  七   |            |   [802]    |                 |                 |                 |
 
+手機版本 [apk載點]
+
 [802]:https://meet.google.com/zhd-qxdr-hid
 [803]:https://meet.google.com/gxy-bjpm-dui
+[apk載點]:https://drive.google.com/file/d/1VWE9lfkK4qh61QyveQsGR3R36mtNenxO/view?usp=sharing
