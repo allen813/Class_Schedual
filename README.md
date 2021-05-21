@@ -5,7 +5,6 @@
 
 ##課表
 
-```markdown
 ## 5/17~5/21
 
 | 時間  |  一   |  二   |       三        |             四             |      五       |
@@ -29,7 +28,6 @@
 |  五   |      實習       |        |                 | [數學][145] |       |
 |  六   |      實習       |        | [微處理機][236] |             |       |
 |  七   |      實習       |        |    微處理機     |             |       |
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
