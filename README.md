@@ -29,12 +29,16 @@
 |  六   |      實習       |        | [微處理機][236] |             |       |
 |  七   |      實習       |        |    微處理機     |             |       |
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[136]:https://meet.google.com/zhd-qxdr-hid
+[141]:https://meet.google.com/gxy-bjpm-dui
+[211]:https://meet.google.com/oip-qubt-pef
+[236]:https://meet.google.com/fpg-bfud-zqn
+[241]:https://meet.google.com/vzs-efyz-hdk
+[145]:https://meet.google.com/rzn-ntqy-ynu
+[135]:https://meet.google.com/cev-accb-xex
+[157]:https://meet.google.com/ohg-hjgp-ptm
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/allen813/Test/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[001]:https://meet.google.com/vew-umyx-xvn
+[002]:https://meet.google.com/wka-bgbj-oxi
+[004]:https://meet.google.com/tyg-ntqx-ibc
+[003]:https://meet.google.com/fjs-jquz-apu
