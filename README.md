@@ -1,6 +1,6 @@
 ## Welcome to Class Schedule
 
-802 Google Meet [Linker](https://meet.google.com/lookup/gldzzmohsh?authuser=0&hs=179).
+802 Google Meet [Linker](https://meet.google.com/lookup/gldzzmohsh?authuser=0&hs=179).  
 802 Google Meet [Linker](https://meet.google.com/lookup/bcspmhcrce?authuser=0&hs=179).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
