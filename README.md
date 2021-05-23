@@ -28,6 +28,6 @@
 手機版本 [apk載點]
 
 
-[802]:https://meet.google.com/zhd-qxdr-hid
-[803]:https://meet.google.com/gxy-bjpm-dui
+[802]:https://meet.google.com/gld-zzmo-hsh
+[803]:https://meet.google.com/bcs-pmhc-rce
 [apk載點]:https://drive.google.com/file/d/1R1zlvpMutQGJxVZHFKL1UX-XxJE48wEV/view?usp=sharing
