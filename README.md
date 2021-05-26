@@ -41,13 +41,13 @@
 |  七   |      實習       | [國文][157] |    微處理機     |             |       |
 
 ## 5/31~6/4
-
-| 時間  |         一          |       二        |       三        |        四         |       五       |
-| :---: |    :------------:   |     :---:      | :-------------: |    :---------:    |     :---:      |
-|  一   | [微處理機][Micro1]   |   英文[english] |      英文       |    [班會][class]     |      英文       |
-|  二   |[單晶片實習][praMicro]|   數學[math]    |      英文       |      ai2實習       |      音樂       |
-|  三   |[單晶片實習][praMicro]|   健康    |      國文       |      ai2實習       |      數學       |
-|  四   |[單晶片實習][praMicro]|   健康    |      國文       |      ai2實習       |      數學       |
+ 
+| 時間  |         一          |         二         |       三        |        四         |       五       |
+| :---: |    :------------:   |      :---:        | :-------------: |    :---------:    |     :---:      |
+|  一   | [微處理機][Micro1]   |   [英文][english] |      英文       |    [班會][class]     |      英文       |
+|  二   |[單晶片實習][praMicro]|   [數學][math]    |      英文       |      ai2實習       |      音樂       |
+|  三   |[單晶片實習][praMicro]|   [健康][physic]  |      國文       |      ai2實習       |      數學       |
+|  四   |[單晶片實習][praMicro]|   [健康][physic]  |      國文       |      ai2實習       |      數學       |
 |  五   |      實習       |    體育   |      電子學     |        數學        |      電子學     |
 |  六   |      實習       |    體育   | [微處理機][336] |      電子學         |      電子學     |
 |  七   |      實習       |    國文   |    微處理機     |      電子學         |      電子學     |
@@ -116,5 +116,6 @@ L10成敗皆網路，突圍亦網路
 [praMicro]:https://meet.google.com/vew-umyx-xvn
 [english]:https://meet.google.com/piy-fisq-xpp
 [math]:https://meet.google.com/rzn-ntqy-ynu
+[physic]:https://meet.google.com/tzu-egcr-jqf
 [class]:https://meet.google.com/vzs-efyz-hdk
 
