@@ -75,7 +75,9 @@
 1.
 
 ###  體育作業
-1.
+1.錄製運動影片(包括one more time)[範例影片](https://www.youtube.com/watch?v=NT8TcyBXVyM&ab_channel=SARVYOUTUBE)  
+2.寫完學習單(於酷課雲)  
+▲完成上列兩項彙整後傳至酷客雲(截止日期:5/28  10:00 a.m.)  
 
 ###  AI2作業
 ####  A組
