@@ -88,7 +88,7 @@
 ####  B組
 1.課本P232範例  
 2.課本P232範例  
-▲將兩項範例實作寫成一報告[大安課程往](https://cloud.taivs.tp.edu.tw/moodle/mod/assign/view.php?id=14864)  
+▲將兩項範例實作寫成一報告[大安課程網](https://cloud.taivs.tp.edu.tw/moodle/mod/assign/view.php?id=14864)  
   
 ###  音樂作業
 1.請錄製課本歌一條  
