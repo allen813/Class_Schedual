@@ -115,7 +115,7 @@
 L10成敗皆網路，突圍亦網路
 
 ###  電子學實習
-[555 Astable Multivibrator](https://www.youtube.com/watch?v=iJYm_BGqa1A)
+[555 Astable Multivibrator](https://www.youtube.com/watch?v=iJYm_BGqa1A)  
 [Monostable Multivibrator](https://www.youtube.com/watch?v=ypV6gdIJJU4&t=130s)
 
 ###  電子學(5/21)HW
