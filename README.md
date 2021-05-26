@@ -42,12 +42,12 @@
 
 ## 5/31~6/4
 
-| 時間  |            一                |  二       |       三        |        四         |       五       |
-| :---: |             :------------:   |  :---:    | :-------------: |    :---------:    |     :---:      |
-|  一   |       [微處理機][Micro1]      |   英文    |      英文       |    [班會][341]     |      英文       |
-|  二   |[單晶片實習][praMicro]、[單晶片實習][praMicro]|   數學    |      英文       |      ai2實習       |      音樂       |
-|  三   |      實習       |   健康    |      國文       |      ai2實習       |      數學       |
-|  四   |      實習       |   健康    |      國文       |      ai2實習       |      數學       |
+| 時間  |         一          |       二        |       三        |        四         |       五       |
+| :---: |    :------------:   |     :---:      | :-------------: |    :---------:    |     :---:      |
+|  一   | [微處理機][Micro1]   |   英文[english] |      英文       |    [班會][class]     |      英文       |
+|  二   |[單晶片實習][praMicro]|   數學[math]    |      英文       |      ai2實習       |      音樂       |
+|  三   |[單晶片實習][praMicro]|   健康    |      國文       |      ai2實習       |      數學       |
+|  四   |[單晶片實習][praMicro]|   健康    |      國文       |      ai2實習       |      數學       |
 |  五   |      實習       |    體育   |      電子學     |        數學        |      電子學     |
 |  六   |      實習       |    體育   | [微處理機][336] |      電子學         |      電子學     |
 |  七   |      實習       |    國文   |    微處理機     |      電子學         |      電子學     |
@@ -114,4 +114,7 @@ L10成敗皆網路，突圍亦網路
 [005]:https://meet.google.com/vew-umyx-xvn
 [Micro1]:https://meet.google.com/oip-qubt-pef
 [praMicro]:https://meet.google.com/vew-umyx-xvn
+[english]:https://meet.google.com/piy-fisq-xpp
+[math]:https://meet.google.com/rzn-ntqy-ynu
+[class]:https://meet.google.com/vzs-efyz-hdk
 
