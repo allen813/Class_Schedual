@@ -141,7 +141,7 @@ L10成敗皆網路，突圍亦網路
 ##  問題回報
 ◆Messenger:@廖紘揚  
 ◆email    :allen930813@gmail.com  
-◆電二甲班群(Messenger or DC)  
+◆電子二甲班群(Messenger or DC)  
 
 
 [136]:https://meet.google.com/zhd-qxdr-hid
