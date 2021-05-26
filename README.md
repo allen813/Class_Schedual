@@ -139,9 +139,9 @@ L10成敗皆網路，突圍亦網路
 ●[音樂](https://ono.tp.edu.tw/course/join/40OJTXMGY56C)  
 
 ##  問題回報
-1.Messenger:@廖紘揚  
-2.email    :allen930813@gmail.com  
-3.電二甲班群(Messenger or DC)  
+◆Messenger:@廖紘揚  
+◆email    :allen930813@gmail.com  
+◆電二甲班群(Messenger or DC)  
 
 
 [136]:https://meet.google.com/zhd-qxdr-hid
