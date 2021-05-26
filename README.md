@@ -138,6 +138,12 @@ L10成敗皆網路，突圍亦網路
 ●[AI2_B](https://ono.tp.edu.tw/course/join/3G3L81ZO06NH)  
 ●[音樂](https://ono.tp.edu.tw/course/join/40OJTXMGY56C)  
 
+##  問題回報
+###  Messenger:@廖紘揚  
+###  email    :allen930813@gmail.com  
+###  或電二甲班群(Messenger or DC)  
+
+
 [136]:https://meet.google.com/zhd-qxdr-hid
 [141]:https://meet.google.com/gxy-bjpm-dui
 [211]:https://meet.google.com/oip-qubt-pef
