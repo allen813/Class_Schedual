@@ -89,7 +89,8 @@ L10成敗皆網路，突圍亦網路
 ●[數學](https://ono.tp.edu.tw/course/join/3G39IXZZONMU)
 ●[健康_急救總動員](https://ono.tp.edu.tw/course/join/3DG136NNCSDN)
 ●[健康_認識愛滋病](https://ono.tp.edu.tw/course/join/4M3N49T46SWX)
-
+●[體育](https://ono.tp.edu.tw/course/join/3OLXV0XZVGV4)
+●[國文](https://ono.tp.edu.tw/course/join/3ASNC04ITSNO)
 
 [136]:https://meet.google.com/zhd-qxdr-hid
 [141]:https://meet.google.com/gxy-bjpm-dui
