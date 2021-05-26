@@ -87,9 +87,12 @@ L10成敗皆網路，突圍亦網路
 
 ###  電子學實習
 [555 Astable Multivibrator](https://www.youtube.com/watch?v=iJYm_BGqa1A)
-
 [Monostable Multivibrator](https://www.youtube.com/watch?v=ypV6gdIJJU4&t=130s)
 
+###  電子學(5/21)HW
+[練習卷](https://drive.google.com/file/d/15nkeJ40B0xGG4cbe9IMH-zBmJ4nQ_l4L/view?usp=sharing)  
+[講解影片](https://drive.google.com/file/d/1X_OCgfro1N6PHNqg8JdgAgRcrIg6Zfus/view?usp=sharing)  
+信箱：zheedu93@gmail.com
 
 [136]:https://meet.google.com/zhd-qxdr-hid
 [141]:https://meet.google.com/gxy-bjpm-dui
@@ -122,5 +125,5 @@ L10成敗皆網路，突圍亦網路
 [physic]:https://meet.google.com/tzu-egcr-jqf
 [chinese]:https://meet.google.com/ohg-hjgp-ptm
 [class]:https://meet.google.com/vzs-efyz-hdk
-[ai2A]:
+[ai2A]: https://meet.google.com/fjs-jquz-apu
 [ai2B]:https://meet.google.com/tyg-ntqx-ibc
