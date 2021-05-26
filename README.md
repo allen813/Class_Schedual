@@ -42,13 +42,13 @@
 
 ## 5/31~6/4
  
-| 時間  |         一          |         二         |       三         |        四         |       五       |
-| :---: |    :------------:   |      :---:        | :-------------:  |    :---------:    |     :---:      |
+| 時間  |         一          |         二         |       三         |          四          |       五       |
+| :---: |    :------------:   |      :---:        | :-------------:  |     :---------:      |     :---:      |
 |  一   | [微處理機][Micro1]   |   [英文][english] |   [英文][english] |    [班會][class]     |      英文       |
-|  二   |[單晶片實習][praMicro]|   [數學][math]    |   [英文][english] |      ai2實習       |      音樂       |
-|  三   |[單晶片實習][praMicro]|   [健康][physic]  |  [國文][chinese]  |      ai2實習       |      數學       |
-|  四   |[單晶片實習][praMicro]|   [健康][physic]  |  [國文][chinese]  |      ai2實習       |      數學       |
-|  五   |[電子學實習][praelect]|        體育       |       電子學      |        數學        |      電子學     |
+|  二   |[單晶片實習][praMicro]|   [數學][math]    |   [英文][english] |   [ai2實習A][ai2A]   |      音樂       |
+|  三   |[單晶片實習][praMicro]|   [健康][physic]  |  [國文][chinese]  |         A/B          |      數學       |
+|  四   |[單晶片實習][praMicro]|   [健康][physic]  |  [國文][chinese]  |   [ai2實習B][ai2B]   |      數學       |
+|  五   |[電子學實習][praelect]|        體育       |  [電子學][elect]  |        數學        |      電子學     |
 |  六   |[電子學實習][praelect]|        體育       |  [微處理機][336]  |      電子學         |      電子學     |
 |  七   |[電子學實習][praelect]|  [國文][chinese]  |[微處理機][Micro1] |      電子學         |      電子學     |
 
@@ -115,10 +115,12 @@ L10成敗皆網路，突圍亦網路
 
 [Micro1]:https://meet.google.com/oip-qubt-pef
 [praMicro]:https://meet.google.com/vew-umyx-xvn
+[elect]:https://meet.google.com/cev-accb-xex
 [praelect]:https://meet.google.com/wka-bgbj-oxi
 [english]:https://meet.google.com/piy-fisq-xpp
 [math]:https://meet.google.com/rzn-ntqy-ynu
 [physic]:https://meet.google.com/tzu-egcr-jqf
 [chinese]:https://meet.google.com/ohg-hjgp-ptm
 [class]:https://meet.google.com/vzs-efyz-hdk
-
+[ai2A]:
+[ai2B]:https://meet.google.com/tyg-ntqx-ibc
