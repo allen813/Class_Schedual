@@ -2,14 +2,6 @@
 
 [電子二甲體溫量測回報單](https://docs.google.com/forms/d/e/1FAIpQLSfgFXoUGCK3FxRVkTYcgu1SS_Lf_Owca1c3xHMoXQK2cEwaCA/viewform?vc=0&c=0&w=1&flr=0&usp=mail_form_link)
 
-## 實習
-
-電子學實習自行練習，以下提供重要的振盪電路：
-
-[555 Astable Multivibrator](https://www.youtube.com/watch?v=iJYm_BGqa1A)
-
-[Monostable Multivibrator](https://www.youtube.com/watch?v=ypV6gdIJJU4&t=130s)
-
 ## ono
 
 [健康課程](https://ono.tp.edu.tw/course/join/3DG136NNCSDN)
@@ -50,10 +42,10 @@
 
 ## 5/31~6/4
 
-| 時間  |       一        |  二       |       三        |        四         |       五       |
-| :---: | :------------: |  :---:    | :-------------: |    :---------:    |     :---:      |
-|  一   | [微處理機][311] |   英文    |      英文       |    [班會][341]     |      英文       |
-|  二   |   [實習][005]   |   數學    |      英文       |      ai2實習       |      音樂       |
+| 時間  |            一                |  二       |       三        |        四         |       五       |
+| :---: |             :------------:   |  :---:    | :-------------: |    :---------:    |     :---:      |
+|  一   |       [微處理機][Micro1]      |   英文    |      英文       |    [班會][341]     |      英文       |
+|  二   |[單晶片實習][praMicro]、[單晶片實習][praMicro]|   數學    |      英文       |      ai2實習       |      音樂       |
 |  三   |      實習       |   健康    |      國文       |      ai2實習       |      數學       |
 |  四   |      實習       |   健康    |      國文       |      ai2實習       |      數學       |
 |  五   |      實習       |    體育   |      電子學     |        數學        |      電子學     |
@@ -120,3 +112,6 @@ L10成敗皆網路，突圍亦網路
 [004]:https://meet.google.com/tyg-ntqx-ibc
 [003]:https://meet.google.com/fjs-jquz-apu
 [005]:https://meet.google.com/vew-umyx-xvn
+[Micro1]:https://meet.google.com/oip-qubt-pef
+[praMicro]:https://meet.google.com/vew-umyx-xvn
+
