@@ -91,6 +91,10 @@ L10成敗皆網路，突圍亦網路
 ●[健康_認識愛滋病](https://ono.tp.edu.tw/course/join/4M3N49T46SWX)  
 ●[體育](https://ono.tp.edu.tw/course/join/3OLXV0XZVGV4)  
 ●[國文](https://ono.tp.edu.tw/course/join/3ASNC04ITSNO)  
+●[電子學](https://ono.tp.edu.tw/course/join/3B0H4Y31MB8P)  
+●[AI2_A](https://ono.tp.edu.tw/course/join/3FDRSVT9CEC4)  
+●[AI2_B](https://ono.tp.edu.tw/course/join/3G3L81ZO06NH)  
+●[音樂](https://ono.tp.edu.tw/course/join/40OJTXMGY56C)  
 
 [136]:https://meet.google.com/zhd-qxdr-hid
 [141]:https://meet.google.com/gxy-bjpm-dui
