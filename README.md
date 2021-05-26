@@ -50,7 +50,7 @@
 |  四   |[單晶片實習][praMicro]|   [健康][physic]  |      國文       |      ai2實習       |      數學       |
 |  五   |      實習       |    體育   |      電子學     |        數學        |      電子學     |
 |  六   |      實習       |    體育   | [微處理機][336] |      電子學         |      電子學     |
-|  七   |      實習       |    國文   |    微處理機     |      電子學         |      電子學     |
+|  七   |      實習       |    [國文][chinese]   |    微處理機     |      電子學         |      電子學     |
 
 ## 6/7~6/11
 
@@ -117,5 +117,6 @@ L10成敗皆網路，突圍亦網路
 [english]:https://meet.google.com/piy-fisq-xpp
 [math]:https://meet.google.com/rzn-ntqy-ynu
 [physic]:https://meet.google.com/tzu-egcr-jqf
+[chinese]:https://meet.google.com/ohg-hjgp-ptm
 [class]:https://meet.google.com/vzs-efyz-hdk
 
