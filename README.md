@@ -2,19 +2,6 @@
 
 [電子二甲體溫量測回報單](https://docs.google.com/forms/d/e/1FAIpQLSfgFXoUGCK3FxRVkTYcgu1SS_Lf_Owca1c3xHMoXQK2cEwaCA/viewform?vc=0&c=0&w=1&flr=0&usp=mail_form_link)
 
-## ono
-
-[健康課程](https://ono.tp.edu.tw/course/join/3DG136NNCSDN)
-
-[愛滋病課程](https://ono.tp.edu.tw/course/join/4M3N49T46SWX)
-
-## 電子學 HW
-
-[練習卷](https://drive.google.com/file/d/15nkeJ40B0xGG4cbe9IMH-zBmJ4nQ_l4L/view?usp=sharing)
-
-[講解影片](https://drive.google.com/file/d/1X_OCgfro1N6PHNqg8JdgAgRcrIg6Zfus/view?usp=sharing)
-
-信箱：zheedu93@gmail.com
 
 ## 5/17~5/21
 
@@ -93,6 +80,16 @@ L10成敗皆網路，突圍亦網路
 [練習卷](https://drive.google.com/file/d/15nkeJ40B0xGG4cbe9IMH-zBmJ4nQ_l4L/view?usp=sharing)  
 [講解影片](https://drive.google.com/file/d/1X_OCgfro1N6PHNqg8JdgAgRcrIg6Zfus/view?usp=sharing)  
 信箱：zheedu93@gmail.com
+
+##  酷課雲連結
+●[微處理機](https://ono.tp.edu.tw/course/join/383P7U4JBIM6)  
+●[微處理機實習](https://ono.tp.edu.tw/course/join/39OMESVI927W)
+●[電子學機實習](https://ono.tp.edu.tw/course/join/39QMQ16JIFE8)
+●[英文](https://ono.tp.edu.tw/course/join/3FS5OLY8DKEU)
+●[數學](https://ono.tp.edu.tw/course/join/3G39IXZZONMU)
+●[健康_急救總動員](https://ono.tp.edu.tw/course/join/3DG136NNCSDN)
+●[健康_認識愛滋病](https://ono.tp.edu.tw/course/join/4M3N49T46SWX)
+
 
 [136]:https://meet.google.com/zhd-qxdr-hid
 [141]:https://meet.google.com/gxy-bjpm-dui
