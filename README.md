@@ -8,8 +8,7 @@
 
 [555 Astable Multivibrator](https://www.youtube.com/watch?v=iJYm_BGqa1A)
 
-[Monostable Multivibrator](
-https://www.youtube.com/watch?v=ypV6gdIJJU4&t=130s)
+[Monostable Multivibrator](https://www.youtube.com/watch?v=ypV6gdIJJU4&t=130s)
 
 ## ono
 
@@ -76,12 +75,12 @@ https://www.youtube.com/watch?v=ypV6gdIJJU4&t=130s)
 ##  作業公告(5/26更新)
 
 ### 國文作業
-1.國文習作
+1.國文習作<
 2.
 
 ##  公告區
-###  國文期末考範圍
 
+###  國文期末考範圍
 一、(形音義、作者、文義、修辭、國學全考)
 
 1. L8赤壁賦(默書:客亦知夫……所共適)
@@ -92,8 +91,13 @@ https://www.youtube.com/watch?v=ypV6gdIJJU4&t=130s)
 4. 自學篇  現代詩選(國常見補充講義P130~132)
 
 二、閱讀測驗
-
 L10成敗皆網路，突圍亦網路
+
+###  電子學實習
+[555 Astable Multivibrator](https://www.youtube.com/watch?v=iJYm_BGqa1A)
+
+[Monostable Multivibrator](https://www.youtube.com/watch?v=ypV6gdIJJU4&t=130s)
+
 
 [136]:https://meet.google.com/zhd-qxdr-hid
 [141]:https://meet.google.com/gxy-bjpm-dui
