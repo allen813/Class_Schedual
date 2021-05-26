@@ -54,43 +54,42 @@
 
 
 ##  作業公告(5/26更新)
-
+  
 ### 國文作業
 1.習作第八課  
-
+  
 ###  數學作業
 1.進度至3-4結束
-
+  
 ###  英文作業
 1.課本第五課課後練習  
 2.習作第五課  
 3.課本第六課課後練習(下次)  
 4.習作第六課(下次)  
-
+  
 ###  電子學功課
 1.習作第十章(自主)  
-
+  
 ###  微處理機作業
 1.習作第六章
-
+  
 ###  健康作業
-####  急救總動員
-1.CPR大挑戰學習單([酷客雲](https://ono.tp.edu.tw/course/444023/learning-activity/full-screen#/1409345))  
-2.
-
+急救總動員  
+1.[CPR大挑戰學習單](https://ono.tp.edu.tw/course/444023/learning-activity/full-screen#/1409345)(截止日期:5/28  2:00 p.m.)  
+  
 ###  體育作業
 1.錄製運動影片(包括one more time)[範例影片](https://www.youtube.com/watch?v=NT8TcyBXVyM&ab_channel=SARVYOUTUBE)  
 2.寫完學習單(於酷課雲)  
 ▲完成上列兩項彙整後傳至酷客雲(截止日期:5/28  10:00 a.m.)  
-
+  
 ###  AI2作業
 ####  A組
-
+  
 ####  B組
 1.課本P232範例  
 2.課本P232範例  
 ▲將兩項範例實作寫成一報告[大安課程往](https://cloud.taivs.tp.edu.tw/moodle/mod/assign/view.php?id=14864)  
-
+  
 ###  音樂作業
 1.請錄製課本歌一條  
 2.才藝表演(影+音)  
@@ -98,11 +97,10 @@
 1.vanessa@taivs.tp.edu.tw(學校信箱)  
 2.vanessalee328@gmail.com  
 3.vanessalee328@hotmail.com  
-
-
-
+  
+  
 ##  公告區
-
+  
 ###  國文期末考範圍
 一、(形音義、作者、文義、修辭、國學全考)
 
