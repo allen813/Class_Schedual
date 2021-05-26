@@ -94,9 +94,9 @@
 1.請錄製課本歌一條  
 2.才藝表演(影+音)  
 ▲將以上兩項標明 班級、座號、姓名 寄至下列信箱其中之一  
-1.vanessa@taivs.tp.edu.tw(學校信箱)  
-2.vanessalee328@gmail.com  
-3.vanessalee328@hotmail.com  
+vanessa@taivs.tp.edu.tw(學校信箱)  
+vanessalee328@gmail.com  
+vanessalee328@hotmail.com  
   
   
 ##  公告區
