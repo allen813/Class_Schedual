@@ -35,7 +35,7 @@
 |  二   |[單晶片實習][praMicro]|   [數學][math]    |   [英文][english] |   [ai2實習A][ai2A]   |      音樂       |
 |  三   |[單晶片實習][praMicro]|   [健康][physic]  |  [國文][chinese]  |         A/B          |      數學      |
 |  四   |[單晶片實習][praMicro]|   [健康][physic]  |  [國文][chinese]  |   [ai2實習B][ai2B]   |      數學       |
-|  五   |[電子學實習][praelect]|        體育       |  [電子學][elect]  |         數學         | [電子學][elect] |
+|  五   |[電子學實習][praelect]|        體育       |  [電子學][elect]  |     [數學][math]     | [電子學][elect] |
 |  六   |[電子學實習][praelect]|        體育       |  [微處理機][336]  |    [電子學][elect]   | [電子學][elect] |
 |  七   |[電子學實習][praelect]|  [國文][chinese]  |[微處理機][Micro1] |    [電子學][elect]   | [電子學][elect] |
 
@@ -178,6 +178,7 @@ L10成敗皆網路，突圍亦網路
 [math]:https://meet.google.com/rzn-ntqy-ynu
 [physic]:https://meet.google.com/tzu-egcr-jqf
 [chinese]:https://meet.google.com/ohg-hjgp-ptm
+[math]:https://meet.google.com/rzn-ntqy-ynu
 [class]:https://meet.google.com/vzs-efyz-hdk
 [ai2A]: https://meet.google.com/fjs-jquz-apu
 [ai2B]:https://meet.google.com/tyg-ntqx-ibc
