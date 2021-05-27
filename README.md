@@ -53,7 +53,7 @@
 
 
 
-##  作業公告(5/27  11:00 a.m.更新)
+##  作業公告(5/28  12:17 a.m.更新)
   
 ### 國文作業
 1.習作第八課  
@@ -76,7 +76,7 @@
 ###  健康作業
 急救總動員  
 1.[CPR大挑戰學習單](https://ono.tp.edu.tw/course/444023/learning-activity/full-screen#/1409345)(截止日期:5/28  2:00 p.m.)  
-2.用A4畫出有關愛滋病的圖  
+2.用A4畫出有關愛滋病的圖(6/15繳交)  
   
 ###  體育作業
 1.錄製運動影片(包括one more time)[範例影片](https://www.youtube.com/watch?v=NT8TcyBXVyM&ab_channel=SARVYOUTUBE)  
