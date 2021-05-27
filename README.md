@@ -126,7 +126,10 @@ L10成敗皆網路，突圍亦網路
 
 ###  電子學實習
 [5/25筆記](https://drive.google.com/file/d/1MNfTJz3v9pTRVMHmGfrm1NIPp5eA_Dhs/view?usp=sharing)
-
+  
+###  數學  
+這是方屏老師的[頻道](https://www.youtube.com/channel/UCSYtvOCkGipGuZ634flG3ew)記得訂閱分享並開啟小鈴鐺喔:P  
+  
 ##  酷課雲連結
 ●[微處理機](https://ono.tp.edu.tw/course/join/383P7U4JBIM6)  
 ●[微處理機實習](https://ono.tp.edu.tw/course/join/39OMESVI927W)  
