@@ -130,6 +130,9 @@ L10成敗皆網路，突圍亦網路
 ###  數學  
 這是方屏老師的[頻道](https://www.youtube.com/channel/UCSYtvOCkGipGuZ634flG3ew)，記得訂閱分享並開啟小鈴鐺喔:P  
   
+##  各科講義檔案
+[這裡](https://drive.google.com/file/d/1xsh9FhnnqFZYWe4Bz_qoGwg2rmIqDAB5/view?usp=sharing)是存所有老師分享檔案的地方，歡迎提醒即更新，即有好取得即檢視所有已傳之檔案之空間。
+  
 ##  酷課雲連結
 ●[微處理機](https://ono.tp.edu.tw/course/join/383P7U4JBIM6)  
 ●[微處理機實習](https://ono.tp.edu.tw/course/join/39OMESVI927W)  
