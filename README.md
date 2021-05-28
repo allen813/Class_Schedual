@@ -37,7 +37,7 @@
 |  四   |[單晶片實習][praMicro]|   [健康][physic]  |  [國文][chinese]  |   [ai2實習B][ai2B]   |      數學       |
 |  五   |[電子學實習][praelect]|        體育       |  [電子學][elect]  |     [數學][math]     | [電子學][elect] |
 |  六   |[電子學實習][praelect]|        體育       |  [微處理機][336]  |    [電子學][elect]   | [電子學][elect] |
-|  七   |[電子學實習][praelect]|  [國文][chinese]  |[微處理機][Micro1] |    [電子學][elect]   | [電子學][elect] |
+|  七   |[電子學實習][praelect]|  [國文][chinese]  |[微處理機][Micro1] |    [電子學][elect]   | [國文][chinese] |
 
 ## 6/7~6/11
 
