@@ -90,6 +90,7 @@
 1.課本P253範例  
 2.課本P257範例  
 ▲將兩項範例實作寫成一報告傳至[大安課程網](https://cloud.taivs.tp.edu.tw/moodle/mod/assign/view.php?id=14980)(←有繳交、格式)  
+3.[填寫專題題目](https://drive.google.com/file/d/1JKKbbwYKsCFvLqzsM8UqcMuF5gK_4sfC/view?usp=sharing)(於6/2前完成填寫，記得用學校帳號及填寫姓名)  
   
 ###  音樂作業
 1.請錄製課本歌一條(......?)  
@@ -181,7 +182,7 @@ L10成敗皆網路，突圍亦網路
 [praelect]:https://meet.google.com/wka-bgbj-oxi
 [english]:https://meet.google.com/szm-krvt-fgk 
 [math]:https://meet.google.com/rzn-ntqy-ynu
-[physic]:https://meet.google.com/tzu-egcr-jqf
+[physic]:meet.google.com/fxz-himf-wuw
 [chinese]:https://meet.google.com/ohg-hjgp-ptm
 [math]:https://meet.google.com/rzn-ntqy-ynu
 [class]:https://meet.google.com/vzs-efyz-hdk
