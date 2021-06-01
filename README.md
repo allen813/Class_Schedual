@@ -39,7 +39,7 @@
 |  六   |[電子學實習][praelect]|        體育       |  [微處理機][336]  |    [電子學][elect]   | [電子學][elect] |
 |  七   |[電子學實習][praelect]|  [國文][chinese]  |[微處理機][Micro1] |    [電子學][elect]   | [國文][chinese] |
 
-[OAO](https://meet.google.com/ogh-tuzf-rac)
+[OAO]:https://meet.google.com/ogh-tuzf-rac
 
 ## 6/7~6/11
 
