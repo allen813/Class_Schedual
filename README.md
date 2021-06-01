@@ -58,16 +58,13 @@
 ##  作業公告(6/1  07:45 p.m.更新)
   
 ### 國文作業
-1.東坡詩選實力評量 
+
   
 ###  數學作業
-1.進度至3-4結束
+1.進度至4-1 ex 11
   
 ###  英文作業
-1.課本第五課課後練習  
-2.習作第五課  
-3.課本第六課課後練習(下次)  
-4.習作第六課(下次)  
+ 
   
 ###  電子學功課
 1.習作第十章(自主)  
@@ -83,6 +80,7 @@
   
 ###  體育作業
 1.HIIT(High Intensity Interval Training)  
+2.完成學習單及影片傳至老師信箱(↓)或[酷客雲](https://ono.tp.edu.tw/course/join/3OLXV0XZVGV4)
 ▲完成上週兩項彙整後傳至[酷客雲](https://ono.tp.edu.tw/course/join/3OLXV0XZVGV4)(補交截止日期:5/28  10:00 a.m.)
 或老師信箱:summerlulu@taivs.tp.edu.tw
   
