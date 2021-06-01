@@ -73,7 +73,8 @@
 1.習作第十章(自主)  
   
 ###  微處理機作業
-1.習作第六章
+1.習作第六章，記得匯出成PDF傳至[大安課程網](https://cloud.taivs.tp.edu.tw/moodle/mod/assign/view.php?id=15013)(截止時間:6/5 0:00)  
+2.記得準備[第七章上課講義](https://cloud.taivs.tp.edu.tw/moodle/pluginfile.php/40766/mod_resource/content/0/ch7-S.pdf)  
   
 ###  健康作業
 急救總動員  
