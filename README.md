@@ -81,8 +81,7 @@
 2.用A4畫出有關愛滋病的圖(6/15繳交)  
   
 ###  體育作業
-1.錄製運動影片(包括one more time)[範例影片](https://www.youtube.com/watch?v=NT8TcyBXVyM&ab_channel=SARVYOUTUBE)  
-2.寫完學習單(於酷課雲)  
+1.HIIT(High Intensity Interval Training)
 ▲完成上列兩項彙整後傳至[酷客雲1?](https://ono.tp.edu.tw/course/join/3OLXV0XZVGV4)(截止日期:5/28  10:00 a.m.)、[酷客雲2?](https://ono.tp.edu.tw/course/195804/content#/)  
   
 ###  AI2作業
