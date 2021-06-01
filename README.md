@@ -183,7 +183,7 @@ L10成敗皆網路，突圍亦網路
 [praelect]:https://meet.google.com/wka-bgbj-oxi
 [english]:https://meet.google.com/hfv-ysyf-gok  
 [math]:https://meet.google.com/rzn-ntqy-ynu
-[physic]:meet.google.com/fxz-himf-wuw
+[physic]:https://meet.google.com/fxz-himf-wuw
 [chinese]:https://meet.google.com/ohg-hjgp-ptm
 [math]:https://meet.google.com/rzn-ntqy-ynu
 [class]:https://meet.google.com/vzs-efyz-hdk
