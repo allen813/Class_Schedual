@@ -82,7 +82,7 @@
   
 ###  體育作業
 1.HIIT(High Intensity Interval Training)  
-▲完成上列兩項彙整後傳至[酷客雲1?](https://ono.tp.edu.tw/course/join/3OLXV0XZVGV4)(截止日期:5/28  10:00 a.m.)、[酷客雲2?](https://ono.tp.edu.tw/course/195804/content#/)  
+▲完成上週兩項彙整後傳至[酷客雲](https://ono.tp.edu.tw/course/join/3OLXV0XZVGV4)(補交截止日期:5/28  10:00 a.m.)
   
 ###  AI2作業
 ####  A組
@@ -142,8 +142,7 @@ L10成敗皆網路，突圍亦網路
 ●[英文](https://ono.tp.edu.tw/course/join/3FS5OLY8DKEU)  
 ●[數學](https://ono.tp.edu.tw/course/join/3G39IXZZONMU)  
 ●[健康](https://ono.tp.edu.tw/course/join/3DG136NNCSDN)  
-●[電子二甲_體育](https://ono.tp.edu.tw/course/484841/content#/)  
-●[體育](https://ono.tp.edu.tw/course/195804/content#/)  
+●[電子二甲_體育](https://ono.tp.edu.tw/course/484841/content#/)    
 ●[國文](https://ono.tp.edu.tw/course/join/3ASNC04ITSNO)  
 ●[電子學](https://ono.tp.edu.tw/course/join/3B0H4Y31MB8P)  
 ●[AI2_A](https://ono.tp.edu.tw/course/join/3FDRSVT9CEC4)  
