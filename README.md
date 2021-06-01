@@ -83,6 +83,7 @@
 ###  體育作業
 1.HIIT(High Intensity Interval Training)  
 ▲完成上週兩項彙整後傳至[酷客雲](https://ono.tp.edu.tw/course/join/3OLXV0XZVGV4)(補交截止日期:5/28  10:00 a.m.)
+或老師信箱:summerlulu@taivs.tp.edu.tw
   
 ###  AI2作業
 ####  A組
