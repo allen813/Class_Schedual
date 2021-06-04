@@ -75,18 +75,18 @@
 1.習作第十章(自主)  
   
 ###  微處理機作業
-1.習作第六章，記得匯出成PDF傳至[大安課程網](https://cloud.taivs.tp.edu.tw/moodle/mod/assign/view.php?id=15013)(截止時間:6/5 0:00)  
-2.記得準備[第七章上課講義](https://cloud.taivs.tp.edu.tw/moodle/pluginfile.php/40766/mod_resource/content/0/ch7-S.pdf)  
+(已過)習作第六章，記得匯出成PDF傳至[大安課程網](https://cloud.taivs.tp.edu.tw/moodle/mod/assign/view.php?id=15013)(截止時間:6/5 0:00)  
+(已過)記得準備[第七章上課講義](https://cloud.taivs.tp.edu.tw/moodle/pluginfile.php/40766/mod_resource/content/0/ch7-S.pdf)  
   
 ###  健康作業
 急救總動員  
-1.[CPR大挑戰學習單](https://ono.tp.edu.tw/course/444023/learning-activity/full-screen#/1409345)(截止日期:5/28  2:00 p.m.)  
-2.用A4畫出有關愛滋病的圖(6/15繳交)  
+(已過)[CPR大挑戰學習單](https://ono.tp.edu.tw/course/444023/learning-activity/full-screen#/1409345)(截止日期:5/28  2:00 p.m.)  
+1.用A4畫出有關愛滋病的圖(6/15繳交)  
   
 ###  體育作業
 1.HIIT(High Intensity Interval Training)  
 2.完成學習單及影片傳至老師信箱(↓)或[酷客雲](https://ono.tp.edu.tw/course/join/3OLXV0XZVGV4)  
-▲完成上週兩項彙整後傳至[酷客雲](https://ono.tp.edu.tw/course/join/3OLXV0XZVGV4)(補交截止日期:6/5  11:22)  
+▲完成上週兩項彙整後傳至[酷客雲](https://ono.tp.edu.tw/course/join/3OLXV0XZVGV4)(補交截止日期:6/5  11:22)
 或老師信箱:summerlulu@taivs.tp.edu.tw
   
 ###  AI2作業
@@ -96,7 +96,6 @@
 1.課本P253範例  
 2.課本P257範例  
 ▲將兩項範例實作寫成一報告傳至[大安課程網](https://cloud.taivs.tp.edu.tw/moodle/mod/assign/view.php?id=14980)(←有繳交、格式)  
-3.[填寫專題題目](https://drive.google.com/file/d/1JKKbbwYKsCFvLqzsM8UqcMuF5gK_4sfC/view?usp=sharing)(於6/2前完成填寫，記得用學校帳號及填寫姓名)  
   
 ###  音樂作業
 1.請錄製課本歌一條(......?)  
