@@ -55,7 +55,7 @@
 
 
 
-##  作業公告(6/4  08:37 .m.更新)
+##  作業公告(6/8  04:11 p.m.更新)
   
 ### 國文作業
 1.第八課現代詩選習題、習作  
@@ -65,10 +65,10 @@
 雙號6/10(四)  
   
 ###  數學作業
-1.進度至4-1完
+1.進度至4-2完ex4
   
 ###  英文作業
-1.複習第七課單片  
+1.講解5月雜誌Whale Tales  
 ▲核心字彙黃卷
   
 ###  電子學功課
@@ -78,15 +78,15 @@
 (已過)習作第六章，記得匯出成PDF傳至[大安課程網](https://cloud.taivs.tp.edu.tw/moodle/mod/assign/view.php?id=15013)(截止時間:6/5 0:00)  
 (已過)記得準備[第七章上課講義](https://cloud.taivs.tp.edu.tw/moodle/pluginfile.php/40766/mod_resource/content/0/ch7-S.pdf)  
   
-###  健康作業
-急救總動員  
+###  健康作業  
 (已過)[CPR大挑戰學習單](https://ono.tp.edu.tw/course/444023/learning-activity/full-screen#/1409345)(截止日期:5/28  2:00 p.m.)  
-1.用A4畫出有關愛滋病的圖(6/15繳交)  
+1.用A4畫出有關愛滋病的圖(截止日期:6/14  11:59 p.m.)  
+2.心情溫度計_畫出學習單:如何處理壓力、壓力症狀(截止日期:6/14  11:59 p.m.)
+▲以上作業都交至Google ClassRoom  
   
 ###  體育作業
-1.HIIT(High Intensity Interval Training)  
-2.完成學習單及影片傳至老師信箱(↓)或[酷客雲](https://ono.tp.edu.tw/course/join/3OLXV0XZVGV4)  
-▲完成上週兩項彙整後傳至[酷客雲](https://ono.tp.edu.tw/course/join/3OLXV0XZVGV4)(補交截止日期:6/5  11:22)
+1.完成學習單傳至老師信箱(↓)或[酷客雲](https://ono.tp.edu.tw/course/join/3OLXV0XZVGV4)(截止日期:6/12 11:40)  
+▲補教上週IHTTT至[酷客雲](https://ono.tp.edu.tw/course/join/3OLXV0XZVGV4)(補交截止日期:7/2 11:17)
 或老師信箱:summerlulu@taivs.tp.edu.tw
   
 ###  AI2作業
