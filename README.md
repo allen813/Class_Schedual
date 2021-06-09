@@ -60,9 +60,8 @@
 ### 國文作業
 1.第八課現代詩選習題、習作  
 2.赤壁賦大卷（赤壁賦大卷若無法列印成紙本請將答案預先寫在紙上，並在上課檢討時作筆記，課程結束後拍照傳回。）  
-3.赤壁賦默書:  
-單號6/9(三)  
-雙號6/10(四)  
+3.赤壁賦默書:    
+雙號6/10(四)第五節  
   
 ###  數學作業
 1.進度至4-2完ex4
@@ -75,8 +74,7 @@
 1.習作第十章(自主)  
   
 ###  微處理機作業
-(已過)習作第六章，記得匯出成PDF傳至[大安課程網](https://cloud.taivs.tp.edu.tw/moodle/mod/assign/view.php?id=15013)(截止時間:6/5 0:00)  
-(已過)記得準備[第七章上課講義](https://cloud.taivs.tp.edu.tw/moodle/pluginfile.php/40766/mod_resource/content/0/ch7-S.pdf)  
+習作第七章，記得匯出成PDF傳至[大安課程網](https://cloud.taivs.tp.edu.tw/moodle/mod/assign/view.php?id=15013)(截止時間:6/5 0:00) 
   
 ###  健康作業  
 (已過)[CPR大挑戰學習單](https://ono.tp.edu.tw/course/444023/learning-activity/full-screen#/1409345)(截止日期:5/28  2:00 p.m.)  
