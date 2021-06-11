@@ -67,24 +67,20 @@
 1.進度至4-2完ex4
   
 ###  英文作業
-1.講解5月雜誌Whale Tales  
-▲核心字彙黃卷
   
 ###  電子學功課
-1.習作第十章(自主)  
   
 ###  微處理機作業
 習作第七章，記得匯出成PDF傳至[大安課程網](https://cloud.taivs.tp.edu.tw/moodle/mod/assign/view.php?id=15013)(截止時間:6/5 0:00) 
   
-###  健康作業  
-(已過)[CPR大挑戰學習單](https://ono.tp.edu.tw/course/444023/learning-activity/full-screen#/1409345)(截止日期:5/28  2:00 p.m.)  
+###  健康作業    
 1.用A4畫出有關愛滋病的圖(截止日期:6/14  11:59 p.m.)  
 2.心情溫度計_畫出學習單:如何處理壓力、壓力症狀(截止日期:6/14  11:59 p.m.)
 ▲以上作業都交至Google ClassRoom  
   
 ###  體育作業
 1.完成學習單傳至老師信箱(↓)或[酷客雲](https://ono.tp.edu.tw/course/join/3OLXV0XZVGV4)(截止日期:6/12 11:40)  
-▲補教上週IHTTT至[酷客雲](https://ono.tp.edu.tw/course/join/3OLXV0XZVGV4)(補交截止日期:7/2 11:17)
+▲補教上週HIIT至[酷客雲](https://ono.tp.edu.tw/course/join/3OLXV0XZVGV4)(補交截止日期:7/2 11:17)
 或老師信箱:summerlulu@taivs.tp.edu.tw
   
 ###  AI2作業
