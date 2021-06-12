@@ -64,7 +64,7 @@
 雙號6/10(四)第五節  
   
 ###  數學作業
-1.繳交習作至[課程往](https://ono.tp.edu.tw/course/453695/homework)
+1.繳交習作至[課程網](https://ono.tp.edu.tw/course/453695/homework)
   
 ###  英文作業
   
