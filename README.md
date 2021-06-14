@@ -180,9 +180,9 @@ L10成敗皆網路，突圍亦網路
 [praelect]:https://meet.google.com/wka-bgbj-oxi
 [english]:https://meet.google.com/ayp-pmfm-vvu   
 [math]:https://meet.google.com/rzn-ntqy-ynu
-[physic]:https://meet.google.com/udq-qzpo-jci
+[physic]:https://meet.google.com/nfw-pejf-vye
 [chinese]:https://meet.google.com/ohg-hjgp-ptm
 [math]:https://meet.google.com/rzn-ntqy-ynu
 [class]:https://meet.google.com/vzs-efyz-hdk
-[ai2A]: https://meet.google.com/fjs-jquz-apu
+[ai2A]: https://meet.google.com/pjc-yfzw-bea
 [ai2B]:https://meet.google.com/tyg-ntqx-ibc
