@@ -72,7 +72,7 @@
 習作第七章，記得匯出成PDF傳至[大安課程網](https://cloud.taivs.tp.edu.tw/moodle/mod/assign/view.php?id=15013)(截止時間:6/5 0:00) 
   
 ###  健康作業    
-1.完成學習單:愛情來了、分手信
+1.完成學習單:愛情來了、分手信  
 ▲以上作業都交至Google ClassRoom  
   
 ###  體育作業 
