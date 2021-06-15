@@ -84,7 +84,7 @@
 ####  A組
   
 ####  B組
-1.自製辨識集
+1.自製辨識集  
 ▲將實作寫成一報告傳至[大安課程網](https://cloud.taivs.tp.edu.tw/moodle/mod/assign/view.php?id=14980)(←有繳交、格式)  
   
 ###  音樂作業
