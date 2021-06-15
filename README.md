@@ -174,7 +174,7 @@ L10成敗皆網路，突圍亦網路
 [praMicro]:https://meet.google.com/vew-umyx-xvn
 [elect]:https://meet.google.com/cev-accb-xex
 [praelect]:https://meet.google.com/wka-bgbj-oxi
-[english]:https://meet.google.com/nuw-kmnp-mxj 
+[english]:https://meet.google.com/fsm-wdvs-swf 
 [math]:https://meet.google.com/rzn-ntqy-ynu
 [physic]:https://meet.google.com/nfw-pejf-vye
 [chinese]:https://meet.google.com/ohg-hjgp-ptm
