@@ -64,6 +64,7 @@
   
 ###  數學作業
 1.繳交習作至[酷客雲](https://ono.tp.edu.tw/course/453695/homework)
+2.下周(五)考4-1、4-2  
   
 ###  英文作業
   
@@ -123,7 +124,6 @@ L10成敗皆網路，突圍亦網路
 [5/25筆記](https://drive.google.com/file/d/1MNfTJz3v9pTRVMHmGfrm1NIPp5eA_Dhs/view?usp=sharing)
   
 ###  數學  
-1.下周(五)考4-1、4-2  
 這是方屏老師的[頻道](https://www.youtube.com/channel/UCSYtvOCkGipGuZ634flG3ew)，記得訂閱分享並開啟小鈴鐺喔:P  
   
 ##  各科講義檔案
