@@ -58,18 +58,17 @@
 ##  作業公告(6/15  04:38 p.m.更新)
   
 ### 國文作業
-1.下週二檢討第四冊大卷  
+1.下週二考全測大卷  
   
 ###  數學作業
-1.繳交習作至[酷客雲](https://ono.tp.edu.tw/course/453695/homework)
-2.下周(五)考4-1、4-2  
+1.繳交習作至[酷客雲](https://ono.tp.edu.tw/course/453695/homework) 
   
 ###  英文作業
   
 ###  電子學功課
   
 ###  微處理機作業
-習作第七章，記得匯出成PDF傳至[大安課程網](https://cloud.taivs.tp.edu.tw/moodle/mod/assign/view.php?id=15013)(截止時間:6/5 0:00) 
+習作第八章，記得匯出成PDF傳至[大安課程網](https://cloud.taivs.tp.edu.tw/moodle/mod/assign/view.php?id=15013)(截止時間:6/5 0:00) 
   
 ###  健康作業    
 1.完成學習單:愛情來了、分手信  
@@ -83,7 +82,7 @@
 ####  A組
   
 ####  B組
-1.自製辨識集  
+1.交期末專題相關檔案  
 ▲將實作寫成一報告傳至[大安課程網](https://cloud.taivs.tp.edu.tw/moodle/mod/assign/view.php?id=14980)(←有繳交、格式)  
   
 ###  音樂作業
@@ -175,7 +174,7 @@ L10成敗皆網路，突圍亦網路
 [praelect]:https://meet.google.com/wka-bgbj-oxi
 [english]:https://meet.google.com/nuw-kmnp-mxj  
 [math]:https://meet.google.com/rzn-ntqy-ynu
-[physic]:https://meet.google.com/wkr-waxd-rrz
+[physic]:https://meet.google.com/gbd-krhp-qvy
 [chinese]:https://meet.google.com/ohg-hjgp-ptm
 [class]:https://meet.google.com/vzs-efyz-hdk
 [ai2A]:https://meet.google.com/pjc-yfzw-bea
