@@ -55,7 +55,7 @@
 
 
 
-##  作業公告(6/15  04:38 p.m.更新)
+#  作業公告(6/28  08:37 a.m.更新)
   
 ### 國文作業
 1.下週二考全測大卷  
@@ -94,31 +94,14 @@ vanessalee328@hotmail.com
   
   
 ##  公告區
-  
-###  國文期末考範圍
-一、(形音義、作者、文義、修辭、國學全考)
-
-1. L8赤壁賦(默書:客亦知夫……所共適)
-2. 補充文選 5 東坡詩選
-   - 和子由澠池懷書
-   - 贈劉景文
-3. L9現代詩選
-4. 自學篇  現代詩選(國常見補充講義P130~132)
-
-二、閱讀測驗
-L10成敗皆網路，突圍亦網路
-
-###  電子學實習
-[555 Astable Multivibrator](https://www.youtube.com/watch?v=iJYm_BGqa1A)  
-[Monostable Multivibrator](https://www.youtube.com/watch?v=ypV6gdIJJU4&t=130s)
+###  課程意願諮詢
+7/2 早上十點 科主任進行課程諮詢
 
 ###  電子學(5/21)HW
-[練習卷](https://drive.google.com/file/d/15nkeJ40B0xGG4cbe9IMH-zBmJ4nQ_l4L/view?usp=sharing)  
-[講解影片](https://drive.google.com/file/d/1X_OCgfro1N6PHNqg8JdgAgRcrIg6Zfus/view?usp=sharing)  
-信箱：zheedu93@gmail.com
+老師信箱：zheedu93@gmail.com
 
 ###  電子學實習
-[5/25筆記](https://drive.google.com/file/d/1MNfTJz3v9pTRVMHmGfrm1NIPp5eA_Dhs/view?usp=sharing)
+期末考已發放成績
   
 ###  數學  
 這是方屏老師的[頻道](https://www.youtube.com/channel/UCSYtvOCkGipGuZ634flG3ew)，記得訂閱分享並開啟小鈴鐺喔:P  
