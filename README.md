@@ -68,6 +68,7 @@
 ###  電子學功課
   
 ###  微處理機作業
+週三考第八章  
 習作第八章，記得匯出成PDF傳至[大安課程網](https://cloud.taivs.tp.edu.tw/moodle/mod/assign/view.php?id=15013)(截止時間:6/5 0:00) 
   
 ###  健康作業    
