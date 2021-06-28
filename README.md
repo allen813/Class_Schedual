@@ -61,7 +61,7 @@
 1.下週二考全測大卷  
   
 ###  數學作業
-1.繳交習作至[酷客雲](https://ono.tp.edu.tw/course/453695/homework) 
+1.二考4-3 
   
 ###  英文作業
   
@@ -72,7 +72,7 @@
 習作第八章，記得匯出成PDF傳至[大安課程網](https://cloud.taivs.tp.edu.tw/moodle/mod/assign/view.php?id=15013)(截止時間:6/5 0:00) 
   
 ###  健康作業    
-1.完成學習單:愛情來了、分手信  
+1.二考期末考
 ▲以上作業都交至Google ClassRoom  
   
 ###  體育作業 
