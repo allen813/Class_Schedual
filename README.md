@@ -35,7 +35,7 @@
 
 [S_math]:https://meet.google.com/pqx-pshc-gja
 [S_Belect]:chrome://dino/
-[S_elect]:chrome://dino/
+[S_elect]:https://www.google.com.tw
 
 ## 5/24~5/28
 
