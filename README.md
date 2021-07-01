@@ -34,8 +34,9 @@
 |  四   |[電子學][S_elect]|  [數學][S_math]    |[電子學][S_elect]| [基電][S_Belect]|  |[電子學][S_elect]|
 
 [S_math]:https://meet.google.com/pqx-pshc-gja
-[S_Belect]:
-[S_elect]:
+[S_Belect]:chrome://dino/
+[S_elect]:chrome://dino/
+
 ## 5/24~5/28
 
 | 時間  |         一           |         二        |       三         |          四          |       五       |
