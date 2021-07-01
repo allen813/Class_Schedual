@@ -34,8 +34,8 @@
 |  四   |[電子學][S_elect]|  [數學][S_math]    |[電子學][S_elect]| [基電][S_Belect]|  |[電子學][S_elect]|
 
 [S_math]:https://meet.google.com/pqx-pshc-gja
-[S_Belect]:chrome://dino/
-[S_elect]:https://www.google.com.tw
+[S_Belect]:https://www.pixiv.net/artworks/89254174
+[S_elect]:https://www.pixiv.net/artworks/89254174
 
 ## 5/24~5/28
 
