@@ -1,6 +1,7 @@
 # 暑輔課表整理
 
 [電子二甲體溫量測回報單](https://docs.google.com/forms/d/e/1FAIpQLSfgFXoUGCK3FxRVkTYcgu1SS_Lf_Owca1c3xHMoXQK2cEwaCA/viewform?vc=0&c=0&w=1&flr=0&usp=mail_form_link)(請於每日早上9點前完成填寫)
+7/2 早上十點 科主任進行課程諮詢[網址](https://meet.google.com/uby-nmkw-isg)
 
 
 ## 7/5~7/9
