@@ -32,7 +32,7 @@
 |  一   | [數學][S_math] |[電子學(考)][S_elect]|[基電][S_Belect]|[電子學(考)][S_elect]|                |
 |  二   | [數學][S_math] |  [電子學][S_elect]  |[基電][S_Belect]|  [電子學][S_elect]  |                |
 |  三   |[電子學][S_elect]|  [數學][S_math]    |[電子學][S_elect]| [基電][S_Belect]   |[電子學][S_elect]|
-|  四   |[電子學][S_elect]|  [數學][S_math]    |[電子學][S_elect]| [基電][S_Belect]|  |[電子學][S_elect]|
+|  四   |[電子學][S_elect]|  [數學][S_math]    |[電子學][S_elect]| [基電][S_Belect]  |[電子學][S_elect]|
 
 ## 8/23~8/27
 
