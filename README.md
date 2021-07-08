@@ -45,7 +45,7 @@
 |  四   |[電子學][S_elect]|  [英文][S_English]  |  [電子學][S_elect]  |  [英文][S_English]  |                   |
 
 [S_math]:https://meet.google.com/pqx-pshc-gja
-[S_Belect]:https://www.pixiv.net/artworks/89254174
+[S_Belect]:https://www.pixiv.net/artworks/88207124
 [S_elect]:https://www.pixiv.net/artworks/89254174
 [S_English]:https://meet.google.com/lookup/cg6lmoajnr
 
