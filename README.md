@@ -34,9 +34,20 @@
 |  三   |[電子學][S_elect]|  [數學][S_math]    |[電子學][S_elect]| [基電][S_Belect]   |[電子學][S_elect]|
 |  四   |[電子學][S_elect]|  [數學][S_math]    |[電子學][S_elect]| [基電][S_Belect]|  |[電子學][S_elect]|
 
+## 8/23~8/27
+
+| 時間  |       7/19      |          7/20      |         7/21       |         7/22       |        7/23        |
+| :---: |  :-----------:  | :----------------: |  :--------------:  | :---------------:  | :---------------:  |
+|       |       一        |           二       |          三         |          四        |         五         |
+|  一   |[英文][S_English]|  [電子學][S_elect]  |  [英文][S_English]  |                    | [英文][S_English]  |
+|  二   |[英文][S_English]|  [電子學][S_elect]  |  [英文][S_English]  |                    |  [英文][S_English] |
+|  三   |[電子學][S_elect]|  [英文][S_English]  |  [電子學][S_elect]  |  [英文][S_English]  |                   |
+|  四   |[電子學][S_elect]|  [英文][S_English]  |  [電子學][S_elect]  |  [英文][S_English]  |                   |
+
 [S_math]:https://meet.google.com/pqx-pshc-gja
 [S_Belect]:https://www.pixiv.net/artworks/89254174
 [S_elect]:https://www.pixiv.net/artworks/89254174
+[S_English]:https://meet.google.com/lookup/cg6lmoajnr
 
 ## 5/24~5/28
 
