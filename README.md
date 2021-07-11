@@ -1,8 +1,8 @@
 # 暑輔課表整理
 
-[電子二甲體溫量測回報單](https://forms.gle/TFS1hz63sZUEBhKk8)(暑假期間，若體溫正常不用填寫)  
-本日起課輔(暑輔、補救教學)開始[繳費](https://epay.tp.edu.tw/ePay/StudentsHome)，於期限內儘快繳交  
-更新版[暑假行事曆](https://www.taivs.tp.edu.tw/static/webroot/G157187608106738/application/NF162521703831883.pdf)  
+>[電子二甲體溫量測回報單](https://forms.gle/TFS1hz63sZUEBhKk8)(暑假期間，若體溫正常不用填寫)  
+>本日起課輔(暑輔、補救教學)開始[繳費](https://epay.tp.edu.tw/ePay/StudentsHome)，於期限內儘快繳交  
+>更新版[暑假行事曆](https://www.taivs.tp.edu.tw/static/webroot/G157187608106738/application/NF162521703831883.pdf)  
 
 ## 7/5~7/9
 
@@ -44,6 +44,7 @@
 |  三   |[電子學][S_elect]|  [英文][S_English]  |  [電子學][S_elect]  |  [英文][S_English]  |                   |
 |  四   |[電子學][S_elect]|  [英文][S_English]  |  [電子學][S_elect]  |  [英文][S_English]  |                   |
 
+暑期數學[酷課雲連結](https://ono.tp.edu.tw/course/join/6316094MOZYJ)  
 ##  注意事項
 英文 : 1.  英文所有  作業/考試  凡遲交視同缺交，以零分登記!!  
        2.  每週一繳交測驗截圖  
