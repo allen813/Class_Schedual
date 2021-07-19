@@ -52,7 +52,7 @@
 
 [S_math]:https://meet.google.com/pqx-pshc-gja
 [S_Belect]:https://meet.google.com/ncw-hxow-dpx
-[S_elect]:https://www.pixiv.net/artworks/89254174
+[S_elect]:
 [S_English]:https://meet.google.com/lookup/cg6lmoajnr
 
 ## 5/24~5/28
