@@ -2,6 +2,10 @@
 
 >[電子二甲體溫量測回報單](https://forms.gle/TFS1hz63sZUEBhKk8)(暑假期間，若體溫正常不用填寫)    
 >更新版[暑假行事曆](https://www.taivs.tp.edu.tw/static/webroot/G157187608106738/application/NF162521703831883.pdf)  
+>  
+>全國DEPL網路大會考!!  
+>時間:__ 前測8/18(三) 8:00(24小時內考完) ______ 後測8/25(三) 8:00(24小時內考完)  
+>[報名說明影片](https://youtu.be/P2cESO9LFRg)及[報名簡章](https://pacme.asia/Home/ActivityDetail?activityid=3c0085e4-a739-4e80-9b86-78a49c246c81&sectionid=49b4c422-014f-4769-8288-502d06bea4e6#targetPage)  
 
 ## 8/23~8/27
 
