@@ -20,6 +20,12 @@
 暑期數學[酷課雲連結](https://ono.tp.edu.tw/course/join/6316094MOZYJ)  
 村益老師的[課程網](https://cloud.taivs.tp.edu.tw/moodle/course/view.php?id=61)
 
+##  英文暑期講義
+[4-1](https://jamboard.google.com/d/1hTvkkgUnGkBSGQXxFWUbhz4yjvzznb9URXWX0LVmp8E/edit?usp=sharing)  
+[4-2](https://jamboard.google.com/d/1hraD-EogLJ70scXL5_gm3WyhIgncbHfNfDK1GC7SnGs/edit?usp=sharing)
+[4-3](https://jamboard.google.com/d/1_q1buaCob1B5hN_MYMjczohjI4CJ88ISl35pE9KIzjw/edit?usp=sharing)
+[4-4](https://jamboard.google.com/d/1xCpcoMMaNvM3gpEvsPoBpOpYXzY1gkYaZ8t-6erH4qs/edit?usp=sharing)
+
 ##  注意事項
 英文 : 1.  英文所有作業/考試凡遲交，暑假期間補教以60登記!!  
        2.  每週一繳交測驗截圖  
